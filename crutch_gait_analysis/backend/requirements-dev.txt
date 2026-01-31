@@ -1,0 +1,4 @@
+# Development requirements
+numpy
+opencv-python
+mediapipe

@@ -1,0 +1,352 @@
+{
+  "metadata": {
+    "session_id": "20260127_113645",
+    "start_time": "2026-01-27T11:36:45.369758",
+    "duration_seconds": 1.676758,
+    "total_frames": 5,
+    "user_height_cm": 170.0,
+    "expected_leg_length_cm": 90.10000000000001
+  },
+  "frames": [
+    {
+      "frame_number": 1,
+      "timestamp": 1.676023,
+      "measurements": {
+        "elbow_r": 157.74851593979656,
+        "elbow_l": 167.1049697709108,
+        "trunk_lean": 9.609117672375229,
+        "knee_r": 167.74690943864218,
+        "knee_l": 162.26592003545733,
+        "step_length": 45.86536718808729,
+        "base_width": 15.120949553787964,
+        "shoulder_asym": 7.449416373668704,
+        "gait_phase": "STANDING",
+        "phase_confidence": 0.5,
+        "trial_id": "T001",
+        "trial_index": 1,
+        "overall_length_cm": 120,
+        "grip_height_cm": 80,
+        "crutch_model_id": "generic_axillary_adult",
+        "overall_setting_idx": 4,
+        "grip_setting_idx": 4
+      },
+      "evaluations": {
+        "elbow_r": {
+          "status": "good",
+          "message": null
+        },
+        "elbow_l": {
+          "status": "caution",
+          "message": null
+        },
+        "trunk": {
+          "status": "good",
+          "message": null
+        },
+        "knee_r": {
+          "status": "good",
+          "message": null
+        },
+        "knee_l": {
+          "status": "caution",
+          "message": null
+        },
+        "step": {
+          "status": "good",
+          "message": null
+        },
+        "base": {
+          "status": "good",
+          "message": null
+        },
+        "shoulder": {
+          "status": "warning",
+          "message": "Shoulders uneven"
+        }
+      },
+      "smoothed_values": {
+        "elbow_r": 157.74851593979656,
+        "elbow_l": 167.1049697709108,
+        "trunk_lean": 9.609117672375229,
+        "knee_r": 167.74690943864218,
+        "knee_l": 162.26592003545733,
+        "step_length": 45.86536718808729,
+        "base_width": 15.120949553787964,
+        "shoulder_asym": 7.449416373668704
+      },
+      "persistent_issues": []
+    },
+    {
+      "frame_number": 2,
+      "timestamp": 1.676213,
+      "measurements": {
+        "elbow_r": 159.18048958547305,
+        "elbow_l": 160.5599834507993,
+        "trunk_lean": 10.671738062206229,
+        "knee_r": 167.2668103449591,
+        "knee_l": 168.15010112573222,
+        "step_length": 48.29086255477094,
+        "base_width": 14.052538996105486,
+        "shoulder_asym": 4.173864637914686,
+        "gait_phase": "STANDING",
+        "phase_confidence": 0.5,
+        "trial_id": "T001",
+        "trial_index": 1,
+        "overall_length_cm": 120,
+        "grip_height_cm": 80,
+        "crutch_model_id": "generic_axillary_adult",
+        "overall_setting_idx": 4,
+        "grip_setting_idx": 4
+      },
+      "evaluations": {
+        "elbow_r": {
+          "status": "good",
+          "message": null
+        },
+        "elbow_l": {
+          "status": "good",
+          "message": null
+        },
+        "trunk": {
+          "status": "good",
+          "message": null
+        },
+        "knee_r": {
+          "status": "good",
+          "message": null
+        },
+        "knee_l": {
+          "status": "good",
+          "message": null
+        },
+        "step": {
+          "status": "good",
+          "message": null
+        },
+        "base": {
+          "status": "caution",
+          "message": null
+        },
+        "shoulder": {
+          "status": "caution",
+          "message": null
+        }
+      },
+      "smoothed_values": {
+        "elbow_r": 158.46450276263482,
+        "elbow_l": 163.83247661085505,
+        "trunk_lean": 10.140427867290729,
+        "knee_r": 167.50685989180064,
+        "knee_l": 165.20801058059476,
+        "step_length": 47.078114871429115,
+        "base_width": 14.586744274946724,
+        "shoulder_asym": 5.811640505791695
+      },
+      "persistent_issues": []
+    },
+    {
+      "frame_number": 3,
+      "timestamp": 1.676329,
+      "measurements": {
+        "elbow_r": 159.3353622541191,
+        "elbow_l": 164.07877441280627,
+        "trunk_lean": 9.21182399909122,
+        "knee_r": 168.63839986523647,
+        "knee_l": 163.89284266683097,
+        "step_length": 46.380570108424436,
+        "base_width": 14.270204757402173,
+        "shoulder_asym": 0.36737132735361655,
+        "gait_phase": "STANDING",
+        "phase_confidence": 0.5,
+        "trial_id": "T001",
+        "trial_index": 1,
+        "overall_length_cm": 120,
+        "grip_height_cm": 80,
+        "crutch_model_id": "generic_axillary_adult",
+        "overall_setting_idx": 4,
+        "grip_setting_idx": 4
+      },
+      "evaluations": {
+        "elbow_r": {
+          "status": "good",
+          "message": null
+        },
+        "elbow_l": {
+          "status": "good",
+          "message": null
+        },
+        "trunk": {
+          "status": "good",
+          "message": null
+        },
+        "knee_r": {
+          "status": "good",
+          "message": null
+        },
+        "knee_l": {
+          "status": "caution",
+          "message": null
+        },
+        "step": {
+          "status": "good",
+          "message": null
+        },
+        "base": {
+          "status": "caution",
+          "message": null
+        },
+        "shoulder": {
+          "status": "good",
+          "message": null
+        }
+      },
+      "smoothed_values": {
+        "elbow_r": 158.75478925979624,
+        "elbow_l": 163.91457587817214,
+        "trunk_lean": 9.83089324455756,
+        "knee_r": 167.88403988294593,
+        "knee_l": 164.76962127600683,
+        "step_length": 46.845599950427555,
+        "base_width": 14.481231102431872,
+        "shoulder_asym": 3.9968841129790023
+      },
+      "persistent_issues": []
+    },
+    {
+      "frame_number": 4,
+      "timestamp": 1.676437,
+      "measurements": {
+        "elbow_r": 160.5950801211671,
+        "elbow_l": 166.28089756657334,
+        "trunk_lean": 9.348680740898342,
+        "knee_r": 169.46853933520543,
+        "knee_l": 169.75243048871783,
+        "step_length": 45.26660443676802,
+        "base_width": 15.888430299470217,
+        "shoulder_asym": 4.1577725902802145,
+        "gait_phase": "STANDING",
+        "phase_confidence": 0.5,
+        "trial_id": "T001",
+        "trial_index": 1,
+        "overall_length_cm": 120,
+        "grip_height_cm": 80,
+        "crutch_model_id": "generic_axillary_adult",
+        "overall_setting_idx": 4,
+        "grip_setting_idx": 4
+      },
+      "evaluations": {
+        "elbow_r": {
+          "status": "good",
+          "message": null
+        },
+        "elbow_l": {
+          "status": "caution",
+          "message": null
+        },
+        "trunk": {
+          "status": "good",
+          "message": null
+        },
+        "knee_r": {
+          "status": "good",
+          "message": null
+        },
+        "knee_l": {
+          "status": "good",
+          "message": null
+        },
+        "step": {
+          "status": "good",
+          "message": null
+        },
+        "base": {
+          "status": "good",
+          "message": null
+        },
+        "shoulder": {
+          "status": "caution",
+          "message": null
+        }
+      },
+      "smoothed_values": {
+        "elbow_r": 159.21486197513894,
+        "elbow_l": 164.50615630027244,
+        "trunk_lean": 9.710340118642755,
+        "knee_r": 168.2801647460108,
+        "knee_l": 166.01532357918458,
+        "step_length": 46.45085107201267,
+        "base_width": 14.833030901691458,
+        "shoulder_asym": 4.037106232304305
+      },
+      "persistent_issues": []
+    },
+    {
+      "frame_number": 5,
+      "timestamp": 1.676544,
+      "measurements": {
+        "elbow_r": 160.16224497265932,
+        "elbow_l": 166.57096925619416,
+        "trunk_lean": 7.679922895621023,
+        "knee_r": 166.30365454832494,
+        "knee_l": 167.23529395189001,
+        "step_length": 41.19543297589552,
+        "base_width": 14.460574777850173,
+        "shoulder_asym": 5.4096089947671455,
+        "gait_phase": "STANDING",
+        "phase_confidence": 0.5,
+        "trial_id": "T001",
+        "trial_index": 1,
+        "overall_length_cm": 120,
+        "grip_height_cm": 80,
+        "crutch_model_id": "generic_axillary_adult",
+        "overall_setting_idx": 4,
+        "grip_setting_idx": 4
+      },
+      "evaluations": {
+        "elbow_r": {
+          "status": "good",
+          "message": null
+        },
+        "elbow_l": {
+          "status": "caution",
+          "message": null
+        },
+        "trunk": {
+          "status": "good",
+          "message": null
+        },
+        "knee_r": {
+          "status": "good",
+          "message": null
+        },
+        "knee_l": {
+          "status": "good",
+          "message": null
+        },
+        "step": {
+          "status": "good",
+          "message": null
+        },
+        "base": {
+          "status": "caution",
+          "message": null
+        },
+        "shoulder": {
+          "status": "warning",
+          "message": "Shoulders uneven"
+        }
+      },
+      "smoothed_values": {
+        "elbow_r": 159.40433857464302,
+        "elbow_l": 164.91911889145678,
+        "trunk_lean": 9.30425667403841,
+        "knee_r": 167.88486270647363,
+        "knee_l": 166.25931765372565,
+        "step_length": 45.39976745278924,
+        "base_width": 14.758539676923201,
+        "shoulder_asym": 4.311606784796874
+      },
+      "persistent_issues": []
+    }
+  ]
+}
